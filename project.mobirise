@@ -37,6 +37,13 @@
     "versionFirst": "4.12.4",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/rr-square-64x64.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 16,
     "versionPublish": "4.12.4"
   },
